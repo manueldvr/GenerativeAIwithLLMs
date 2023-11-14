@@ -1,0 +1,17 @@
+Paper sobre convolucionales - Yann LeCun (1998) : http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+
+matematicas para RNC - Jianxin Wu  (2017): http://cs.nju.edu.cn/wujx/paper/CNN.pdf 
+
+herramienta 2d para ver convoluciones
+https://www.cs.cmu.edu/~aharley/vis/conv/flat.html
+https://adamharley.com/nn_vis/cnn/3d.html
+https://adamharley.com/nn_vis/cnn/2d.html
+
+
+Ejemplo de arquitecturas Convolucionales: https://microscope.openai.com/models
+
+Los datos que transformaron la investigación en IA, y posiblemente el mundo
+https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
+
+
+https://forms.gle/9dXSBpwSdxVBn5DP7

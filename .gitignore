@@ -1,0 +1,33 @@
+# Archivos y directorios ignorados por Git
+__pycache__/
+*.pyc
+*.log
+
+*.tsv
+
+# General
+.DS_Store
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
