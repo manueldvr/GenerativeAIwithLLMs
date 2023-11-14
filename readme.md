@@ -1,5 +1,14 @@
 # GenerativeAIwithLLMs
 
+## VEnv activation
+
+Activación del entorno virtual en Linux/macOS:
+
+```bash
+source my_venv/bin/activate
+```
+
+
 ## installations: 
 >> pip freeze
 annotated-types==0.6.0
