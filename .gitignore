@@ -1,3 +1,5 @@
+config.py
+
 # Archivos y Directorios ignorados por Git
 __pycache__/
 *.pyc
