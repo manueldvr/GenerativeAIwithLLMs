@@ -5,6 +5,7 @@ from config import API_KEY
 # Configura tu clave de API de OpenAI
 openai.api_key = API_KEY 
 
+
 def generar_respuesta(pregunta):
     respuesta = openai.completions.create(
         model="text-davinci-003", # gpt-3.5-turbo-instruct
